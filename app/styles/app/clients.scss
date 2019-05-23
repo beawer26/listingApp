@@ -1,0 +1,466 @@
+.clients-grey{
+  background-color: #f3f3f3;
+}
+
+.property-type{
+  border: 1px solid;
+  border-color: #5d9cec;
+  width: 75px;
+  height: 60px;
+  max-width:100%;
+  margin-left: 5%;
+}
+
+.property-type-last {
+  border-right: 1px solid;
+  border-color: #5d9cec;
+}
+
+#cvc{
+  width: 70px
+}
+
+.property-label {
+  font-size: 10px;
+}
+
+li {
+  list-style-type: none;
+}
+#min_beds, #max_beds, #min_baths, #max_baths, #min_parking, #max_parking, #min_lot, #max_lot, #min_year, #max_year, #min_floor, #max_floor, #min_living, #max_living{
+  width:75px
+}
+
+#status, #keyword, #master_bedroom, #county, #city, #subdivision, #street{
+  width: 250px;
+  max-width: 100%;
+}
+
+#min_price, #max_price{
+  width: 150px;
+  max-width: 100%
+}
+
+#draw-map{
+  height: 400px;
+}
+
+#map{
+  height:100%;
+}
+
+.edit_field_tiny{
+  width: 75px;
+}
+
+.edit_field_small{
+  width:100px;
+}
+
+.edit_field{
+  width:150px;
+}
+
+#company-label{
+  font-size: 25px
+}
+
+.count_button {
+  width: auto!important;
+}
+
+.price_number{
+  z-index: 0!important;
+}
+
+#hoa {
+  width: 100%!important;
+}
+
+.needsclick {
+  padding-left: 2px!important;
+}
+
+ul {
+  padding-left: 12px!important;
+}
+
+.houses {
+  padding-left: 12px!important;
+}
+.ui-datepicker .ui-datepicker-header {
+  background-color: #5d9cec;
+}
+
+#last_loader{
+  border: none;
+}
+
+#file-upload {
+  display: none;
+}
+.custom-file-upload {
+  border: 1px solid #ccc;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+  background-color: #5d9cec;
+  border-radius: 3px;
+  border-color: #5d9cec;
+  color: #fff;
+}
+
+.preview-img{
+  max-width:100px;
+  max-height:100px;
+  margin:5px;
+}
+
+.subscribers{
+  -webkit-transform: scale(1,1);
+  -webkit-transition-timing-function: ease-out;
+  -webkit-transition-duration: 550ms;
+  -moz-transform: scale(1,1);
+  -moz-transition-timing-function: ease-out;
+  -moz-transition-duration: 550ms;
+}
+
+.subscribers:hover{
+  -webkit-transform: scale(1.2,1.2);
+  -webkit-transition-timing-function: ease-out;
+  -webkit-transition-duration: 550ms;
+  -moz-transform: scale(1.2,1.2);
+  -moz-transition-timing-function: ease-out;
+  -moz-transition-duration: 550ms;
+}
+
+#description{
+  line-height: 2;
+}
+
+.features{
+
+}
+
+.listing-tab ul > li > a {
+  width: 70px;
+  height: 30px;
+  font-size: 12px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  padding: unset;
+
+}
+
+.clients-tab ul > li > a {
+  width: 150px;
+  max-width: 100%;
+  height: 35px;
+  font-size: 14px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  padding: unset;
+  text-align: center;
+  padding-top: 4px;
+}
+
+#logo_img{
+  margin-bottom: 20px;
+}
+
+.condo-icon, .town-icon, .apartment-icon, .single-icon{
+  font-size: 20px;
+}
+
+.condo-label{
+  margin-left: -20px
+}
+
+.mn-t{
+  margin-top: 1.5em!important;
+}
+
+.tr-overflow{
+  max-width: 85px;
+}
+.tr-btn{
+  max-width: 70px;
+  padding: 0px 0px;
+  height: 33px;
+}
+
+.div-ellipsis{
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.table-responsive{
+  overflow-x: unset;
+}
+@media screen and (max-width: 767px){.table-responsive {
+  overflow-y: auto;
+          }
+.img-responsive{
+  max-width:40%;
+}
+  #agent-license{
+    text-align: right;
+  }
+.brand-logo > img{
+  margin: unset!important;
+}
+.agent-info{
+  text-align:left;
+}
+.listing-address{
+  text-align: left
+}
+  .listing-padding{
+    padding-top: 5px;
+  }
+  #request-div{
+    text-align: right;
+  }
+  #description{
+    line-height: 1.5;
+  }
+  #listing-footer{
+   text-align: center;
+ }
+#listing-footer-left{
+  text-align: unset;
+}
+#listing-footer-right{
+  text-align: unset;
+}
+  .listing-header{
+    margin-left: -5%;
+    width:110%
+  }
+#footer-image{
+}}
+
+.input-width{
+  width: 300px!important;
+  max-width: 100%
+}
+
+.listing-page{
+  width:1200px;
+  max-width: 100%;
+}
+
+.register-page{
+  width:1200px;
+  max-width: 100%;
+}
+
+#register-form label {
+  margin-bottom: -0.5em!important;
+}
+
+.border-primary{
+  border-color: #5d9cec !important;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  z-index: 1000;
+}
+
+#contact-agent{
+  display: none;
+}
+
+#terms-link{
+  padding-left: inherit;
+}
+
+#privacy-link, #support-link, #terms-link{
+  padding-left: 2%;
+}
+
+body{
+  font-size: 16px!important;
+}
+
+.payment-panel{
+  width: 775px;
+  max-width: 100%
+}
+
+
+label.error {
+  color: #f05050;
+  margin-left: 1.5em;
+  padding: 0;
+  display: block;
+}
+
+.agent-info{
+  line-height: 0.7;
+}
+
+.listing-header{
+  margin-top: -30px;
+}
+
+.tab-content{
+  padding: unset;
+  border: unset;
+}
+
+#logo-img{
+  display: unset!important;
+}
+
+#register-wrapper > footer{
+  margin-left: unset;
+  position: unset;
+  text-align: center;
+}
+
+
+#blank-wrapper > footer{
+  margin-left: unset;
+  position: unset;
+  margin-top: 10%;
+}
+#blank-wrapper{
+  text-align: center;
+}
+
+#reset-wrapper > footer{
+  margin-left: unset;
+  position: unset;
+  margin-top: 20%;
+}
+
+#reset-wrapper{
+  text-align: center;
+}
+
+#login-panel{
+  max-width:100%;
+}
+
+.notify-circle{
+  width: 20px;
+  height: 20px;
+}
+
+.chosen-choices{
+  height:unset!important;
+}
+
+.sms-radial{
+  margin-bottom: -10px;
+}
+
+.sidebar-subnav{
+  padding-left: unset!important;
+}
+
+.plan1{
+  border: solid #23b7e5;
+}
+
+.plan_button1{
+  background-color: red;
+}
+
+#terms{
+  overflow-y: scroll;
+  height: 200px;
+  resize: none;
+  width: 100%;
+  max-width: 100%;
+}
+
+#plan_description{
+    overflow-y: scroll;
+    resize: none;
+    max-width: 100%;
+}
+
+#edit-tab li{
+  margin-left:10px;
+}
+
+#edit-modal > div{
+  width: 1000px;
+  max-width: 100%;
+}
+#edit-modal{
+  max-width: 100%;
+}
+
+.edit-modal{
+  max-width: 100%;
+}
+
+#agent-license{
+  font-size: 12px;
+}
+
+#listing_table{
+  width: 600px;
+  max-width: 100%;
+}
+
+#footer-image{
+  display: inherit;
+}
+
+#request-button{
+  margin-top: 5%;
+}
+
+#request-modal > div{
+  width: 300px;
+  max-width: 100%;
+}
+
+.listing-list{
+  margin-left: 15px;
+}
+
+.new-bb{
+  border-bottom: 1px solid;
+}
+
+.carousel-status{
+  position: unset!important;
+  font-size: 14px!important;
+  color: black!important;
+  text-align: right!important;
+  text-shadow: none!important;
+}
+
+#request-modal, #thankyou-modal{
+  max-width: 100%
+}
+
+.slick-prev{
+  left: -17px!important;
+  height: 100%;
+}
+
+.slick-next{
+  right: -17px!important;
+  height: 100%;
+}
+
+#buyer-consent{
+  padding-left: 20px;
+}
