@@ -65,7 +65,7 @@
     "html5sortable": "0.5.1",
     "inputmask": "^4.0.2",
     "jqcloud2": "2.0.3",
-    "jquery": "2.2.4",
+    "jquery": "3.5.0",
     "jquery-autocomplete": "^1.2.8",
     "jquery-knob": "1.2.11",
     "jquery-localize": "0.1.0",
