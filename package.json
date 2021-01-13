@@ -75,7 +75,7 @@
     "jquery-ui": "^1.12.1",
     "jquery-ui-monthpicker": "1.0.3",
     "jquery-ui-touch-punch": "^0.2.3",
-    "jquery-validation": "1.16.0",
+    "jquery-validation": "1.19.3",
     "jquery.easing": "1.4.1",
     "jquery.flot.tooltip": "github:krzysu/flot.tooltip",
     "jquery.gmap": "github:marioestrada/jQuery-gMap",
