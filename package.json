@@ -82,7 +82,7 @@
     "js-storage": "1.0.1",
     "loaders.css": "0.1.2",
     "lodash": "^4.17.10",
-    "marked": "0.3.6",
+    "marked": "4.0.10",
     "matchmedia": "0.1.2",
     "modernizr": "3.5.0",
     "moment": "^2.18.1",
